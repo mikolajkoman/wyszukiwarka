@@ -1,0 +1,27 @@
+{
+  "name": "11.3",
+  "version": "1.0.0",
+  "description": "yory",
+  "main": "gruntfile.js",
+  "dependencies": {
+    "grunt-cli": "^1.2.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.2.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Mike",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "none"
+  }
+}
